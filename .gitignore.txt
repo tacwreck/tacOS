@@ -1,0 +1,63 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Logs
+*.log
+logs/
+*.pid
+*.pid.lock
+
+# Compiled source files
+*.class
+*.o
+*.out
+*.so
+
+# Temporary files
+*.swp
+*.tmp
+*.bak
+*.~*
+
+# Build directories
+build/
+dist/
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# System Files
+*.lock
+.env
+.env.local
+.env.*.local
+
+# Git ignore for tacOS-specific content
+output/
+temp/
+.cache/
+
+# Coverage files
+coverage/
+
+# OS metadata files
+*.DS_Store
+._*
+*.Spotlight-V100
+*.Trashes
+
+# Exclude .env files containing secrets (if any)
+.env
+.env.*
+
+# Exclude your email or private configuration
+email-config/
