@@ -1,4 +1,4 @@
-tacOS License  
+MSL License (Modifiable Software License)
 Copyright (c) 2024 tacwreck
 
 Permission is hereby granted, free of charge, to any person obtaining a copy  

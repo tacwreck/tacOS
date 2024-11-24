@@ -49,7 +49,7 @@ Before contributing, please read our [Contribution Guidelines](CONTRIBUTING.md).
 
 ## License
 
-tacOS is released under the **tacOS License**. You are allowed to modify the code but may not:
+tacOS is released under the **MSL License**. You are allowed to modify the code but may not:
 - Resell or distribute it for a price.
 - Change the name of the OS.
 
